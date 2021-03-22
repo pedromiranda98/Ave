@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.exe
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.deps.json
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.runtimeconfig.json
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.dll
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\ref\tpc02.dll
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\tpc02.pdb
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.dll
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\ref\tpc02.dll
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.pdb
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\obj\Debug\net5.0\tpc02.genruntimeconfig.cache

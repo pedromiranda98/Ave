@@ -1,0 +1,5 @@
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\publish\tpc02.exe
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\publish\tpc02.dll
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\publish\tpc02.deps.json
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\publish\tpc02.runtimeconfig.json
+C:\Users\pedro\Desktop\Universidade\2021v\AVE\TPC\Ave\tpc02\bin\Debug\net5.0\publish\tpc02.pdb
